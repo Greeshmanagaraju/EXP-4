@@ -58,8 +58,10 @@ Rectifier with filter
 
 WAVEFORM:
 <img width="1280" height="326" alt="image" src="https://github.com/user-attachments/assets/d291d800-11fd-4277-8dfd-1cbcf86922a3" />
+<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/1acb3210-67d8-4eeb-a119-cceed939f466" />
 
 <img width="1280" height="557" alt="image" src="https://github.com/user-attachments/assets/8c145d8b-9f99-4782-b731-01086717b558" />
+<img width="1280" height="905" alt="image" src="https://github.com/user-attachments/assets/cc9f6201-7ccd-47a1-9d56-a271ca12144e" />
 
 
 RESULT:
